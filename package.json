@@ -1,0 +1,15 @@
+{
+  "name": "squidward_landing_page",
+  "version": "1.0.0",
+  "description": "Squidward's Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "landing",
+    "page"
+  ],
+  "author": "prazzdev",
+  "license": "MIT"
+}
